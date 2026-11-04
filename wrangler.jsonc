@@ -9,7 +9,7 @@
     "assets": { "html_handling": "drop-trailing-slash" },
     "routes": [
         { "pattern": "parachoral.fm", "custom_domain": true },
-        { "pattern": "www.parachoral.fm", "custom_domain": true },
+        { "pattern": "www.parachoral.fm", "custom_domain": true }
     ],
-    "observability": { "enabled": true },
+    "observability": { "enabled": true }
 }

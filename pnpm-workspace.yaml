@@ -1,4 +1,10 @@
 allowBuilds:
-  esbuild: true
-  unrs-resolver: true
-  workerd: true
+    esbuild: true
+    unrs-resolver: true
+    workerd: true
+
+minimumReleaseAgeExclude:
+    - nitro@3.0.261103-rc
+
+# Save exact versions on `pnpm add` instead of ^ranges.
+savePrefix: ""
