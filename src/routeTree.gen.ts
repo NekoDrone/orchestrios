@@ -16,6 +16,7 @@ import { Route as LayoutActivitiesRouteImport } from './routes/_layout/activitie
 import { Route as LayoutAlbumsRouteImport } from './routes/_layout/albums'
 import { Route as LayoutMotifsRouteImport } from './routes/_layout/motifs'
 import { Route as LayoutReleasesRouteImport } from './routes/_layout/releases'
+import { Route as LayoutSearchRouteImport } from './routes/_layout/search'
 import { Route as LayoutTracksRouteImport } from './routes/_layout/tracks'
 import { Route as LayoutActivityActivitySlugRouteImport } from './routes/_layout/activity/$activitySlug'
 import { Route as LayoutMotifMotifSlugRouteImport } from './routes/_layout/motif/$motifSlug'
@@ -55,6 +56,11 @@ const LayoutReleasesRoute = LayoutReleasesRouteImport.update({
   path: '/releases',
   getParentRoute: () => LayoutRoute,
 } as any)
+const LayoutSearchRoute = LayoutSearchRouteImport.update({
+  id: '/search',
+  path: '/search',
+  getParentRoute: () => LayoutRoute,
+} as any)
 const LayoutTracksRoute = LayoutTracksRouteImport.update({
   id: '/tracks',
   path: '/tracks',
@@ -84,6 +90,7 @@ export interface FileRoutesByFullPath {
   '/albums': typeof LayoutAlbumsRoute
   '/motifs': typeof LayoutMotifsRoute
   '/releases': typeof LayoutReleasesRoute
+  '/search': typeof LayoutSearchRoute
   '/tracks': typeof LayoutTracksRoute
   '/activity/$activitySlug': typeof LayoutActivityActivitySlugRoute
   '/motif/$motifSlug': typeof LayoutMotifMotifSlugRoute
@@ -95,6 +102,7 @@ export interface FileRoutesByTo {
   '/albums': typeof LayoutAlbumsRoute
   '/motifs': typeof LayoutMotifsRoute
   '/releases': typeof LayoutReleasesRoute
+  '/search': typeof LayoutSearchRoute
   '/tracks': typeof LayoutTracksRoute
   '/': typeof LayoutIndexRoute
   '/activity/$activitySlug': typeof LayoutActivityActivitySlugRoute
@@ -109,6 +117,7 @@ export interface FileRoutesById {
   '/_layout/albums': typeof LayoutAlbumsRoute
   '/_layout/motifs': typeof LayoutMotifsRoute
   '/_layout/releases': typeof LayoutReleasesRoute
+  '/_layout/search': typeof LayoutSearchRoute
   '/_layout/tracks': typeof LayoutTracksRoute
   '/_layout/': typeof LayoutIndexRoute
   '/_layout/activity/$activitySlug': typeof LayoutActivityActivitySlugRoute
@@ -124,6 +133,7 @@ export interface FileRouteTypes {
     | '/albums'
     | '/motifs'
     | '/releases'
+    | '/search'
     | '/tracks'
     | '/activity/$activitySlug'
     | '/motif/$motifSlug'
@@ -135,6 +145,7 @@ export interface FileRouteTypes {
     | '/albums'
     | '/motifs'
     | '/releases'
+    | '/search'
     | '/tracks'
     | '/'
     | '/activity/$activitySlug'
@@ -148,6 +159,7 @@ export interface FileRouteTypes {
     | '/_layout/albums'
     | '/_layout/motifs'
     | '/_layout/releases'
+    | '/_layout/search'
     | '/_layout/tracks'
     | '/_layout/'
     | '/_layout/activity/$activitySlug'
@@ -210,6 +222,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof LayoutReleasesRouteImport
       parentRoute: typeof LayoutRoute
     }
+    '/_layout/search': {
+      id: '/_layout/search'
+      path: '/search'
+      fullPath: '/search'
+      preLoaderRoute: typeof LayoutSearchRouteImport
+      parentRoute: typeof LayoutRoute
+    }
     '/_layout/tracks': {
       id: '/_layout/tracks'
       path: '/tracks'
@@ -247,6 +266,7 @@ interface LayoutRouteChildren {
   LayoutAlbumsRoute: typeof LayoutAlbumsRoute
   LayoutMotifsRoute: typeof LayoutMotifsRoute
   LayoutReleasesRoute: typeof LayoutReleasesRoute
+  LayoutSearchRoute: typeof LayoutSearchRoute
   LayoutTracksRoute: typeof LayoutTracksRoute
   LayoutIndexRoute: typeof LayoutIndexRoute
   LayoutActivityActivitySlugRoute: typeof LayoutActivityActivitySlugRoute
@@ -260,6 +280,7 @@ const LayoutRouteChildren: LayoutRouteChildren = {
   LayoutAlbumsRoute: LayoutAlbumsRoute,
   LayoutMotifsRoute: LayoutMotifsRoute,
   LayoutReleasesRoute: LayoutReleasesRoute,
+  LayoutSearchRoute: LayoutSearchRoute,
   LayoutTracksRoute: LayoutTracksRoute,
   LayoutIndexRoute: LayoutIndexRoute,
   LayoutActivityActivitySlugRoute: LayoutActivityActivitySlugRoute,

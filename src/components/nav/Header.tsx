@@ -1,4 +1,6 @@
 import { DropdownModal } from "#/components/dropdown/DropdownModal";
+import { HeaderSearch } from "#/components/search/HeaderSearch";
+import { MagnifyingGlassIcon } from "@phosphor-icons/react";
 import { Link } from "@tanstack/react-router";
 import { useState } from "react";
 
@@ -96,17 +98,14 @@ export const Header = () => {
                 )}
             </nav>
 
-            <label className="hidden items-center gap-2.5 border border-overlay-1 px-3 py-2 transition-colors duration-200 focus-within:border-accent/40 md:flex">
-                <input
-                    type="search"
-                    placeholder="Search the songbook"
-                    aria-label="Search the songbook"
-                    className="w-[168px] bg-transparent font-mono text-xs font-light text-text outline-none placeholder:text-subtext-0"
-                />
-                <kbd className="border border-overlay-1 px-1.5 font-mono text-[10px] text-subtext-0">
-                    ⌘K
-                </kbd>
-            </label>
+            <HeaderSearch />
+            <Link
+                to="/search"
+                aria-label="Search the songbook"
+                className="text-subtext-1 transition-colors duration-200 hover:text-accent md:hidden"
+            >
+                <MagnifyingGlassIcon size={16} />
+            </Link>
         </header>
     );
 };

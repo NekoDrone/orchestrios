@@ -10,6 +10,7 @@ const PathsToCrumb: Record<string, string> = {
     albums: "by album",
     activities: "by activity",
     about: "about the songbook",
+    search: "search the songbook",
     track: "",
 } as const;
 type PathsToCrumb = Enumify<typeof PathsToCrumb>;

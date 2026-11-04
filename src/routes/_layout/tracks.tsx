@@ -10,7 +10,7 @@ import { useAtmosphereColor } from "#/lib/hooks/useAtmosphere";
 import { tracksParsed } from "#/lib/load";
 import { createFileRoute } from "@tanstack/react-router";
 import { AnimatePresence } from "motion/react";
-import { useMemo, useState } from "react";
+import { useDeferredValue, useMemo, useState } from "react";
 
 export const Route = createFileRoute("/_layout/tracks")({
     component: RouteComponent,
@@ -25,9 +25,10 @@ function RouteComponent() {
     useAtmosphereColor("#c7a65b18");
 
     // One derivation, shared by the spine and the list so they cannot drift.
+    const deferredQuery = useDeferredValue(query);
     const sections = useMemo(
-        () => getReleaseSections({ originsOnly }),
-        [originsOnly],
+        () => getReleaseSections({ originsOnly, query: deferredQuery }),
+        [originsOnly, deferredQuery],
     );
     const tracksCount = sections.reduce(
         (acc, { tracks }) => acc + tracks.length,
