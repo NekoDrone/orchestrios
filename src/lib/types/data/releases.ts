@@ -5,7 +5,7 @@ export const Release = z.object({
     name: z.string(),
     year: z.number().int(),
     parentReleaseSlug: z.string().optional(),
-    shorthand: z.string().length(4),
+    shorthand: z.string().min(2).max(6),
 });
 
 export type Release = z.infer<typeof Release>;

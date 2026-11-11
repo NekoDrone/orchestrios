@@ -1,34 +1,154 @@
 # Important: While the first entry is MotS, this file tracks game/expansion releases, not soundtrack/album releases.
 # For that, go to /data/albums/*.yaml.
-- slug: 0_music-of-the-spheres
-  name: Music of the Spheres
+- slug: 1.00_vanilla
+  name: Final Fantasy XIV (1.0)
+  year: 2010
+  shorthand: XIV
+- slug: 2.00_a-realm-reborn
+  name: A Realm Reborn (2.0)
+  year: 2013
+  shorthand: ARR
+- slug: 2.10_a-realm-awoken
+  name: A Realm Awoken
+  year: 2013
+  shorthand: ARR1
+- slug: 2.20_through-the-maelstrom
+  name: Through The maelstrom
   year: 2014
-  shorthand: MOTS
-- slug: 1_d1-vanilla
-  name: Destiny
+  shorthand: ARR2
+- slug: 2.30_defenders-of-eorzea
+  name: Defenders of Eorzea
   year: 2014
-  shorthand: DTY1
-- slug: 2_the-dark-below
-  name: The Dark Below
+  shorthand: ARR3
+- slug: 2.40_dreams-of-ice
+  name: Dreams of Ice
   year: 2014
-  shorthand: TDBL
-- slug: 3_house-of-wolves
-  name: House of Wolves
-  year: 2014
-  shorthand: HWLV
-- slug: 4_the-taken-king
-  name: The Taken King
+  shorthand: ARR4
+- slug: 2.50_before-the-fall
+  name: Before the Fall
   year: 2015
-  shorthand: ORYX
-- slug: 5_rise-of-iron
-  name: Rise of Iron
+  shorthand: ARR5
+- slug: 3.00_heavensward
+  name: Heavensward
+  year: 2015
+  shorthand: HW
+- slug: 3.10_as-goes-light-so-goes-darkness
+  name: As Goes Light, So Goes Darkness
+  year: 2015
+  shorthand: HW1
+- slug: 3.20_the-gears-of-change
+  name: The Gears of Change
   year: 2016
-  shorthand: IRON
-- slug: 26_the-edge-of-fate
-  name: The Edge of Fate
+  shorthand: HW2
+- slug: 3.30_revenge-of-the-horde
+  name: Revenge of the Horde
+  year: 2016
+  shorthand: HW3
+- slug: 3.40_soul-surrender
+  name: Soul Surrender
+  year: 2016
+  shorthand: HW4
+- slug: 3.50_the-far-edge-of-fate
+  name: The Far Edge of Fate
+  year: 2017
+  shorthand: HW5
+- slug: 4.00_stormblood
+  name: Stormblood
+  year: 2017
+  shorthand: SB
+- slug: 4.10_the-legend-returns
+  name: The Legend Returns
+  year: 2017
+  shorthand: SB1
+- slug: 4.20_rise-of-a-new-sun
+  name: Rise of a New Sun
+  year: 2018
+  shorthand: SB2
+- slug: 4.30_under-the-moonlight
+  name: Under the Moonlight
+  year: 2018
+  shorthand: SB3
+- slug: 4.40_prelude-in-violet
+  name: Prelude in Violet
+  year: 2018
+  shorthand: SB4
+- slug: 4.50_a-requiem-for-heroes
+  name: A Requiem for Heroes
+  year: 2019
+  shorthand: SB5
+- slug: 5.00_shadowbringers
+  name: Shadowbringers
+  year: 2019
+  shorthand: SHB
+- slug: 5.10_vows-of-virtue-deeds-of-cruelty
+  name: Vows of Virtue, Deeds of Cruelty
+  year: 2019
+  shorthand: SHB1
+- slug: 5.20_echoes-of-a-fallen-star
+  name: Echoes of a Fallen Star
+  year: 2020
+  shorthand: SHB2
+- slug: 5.30_reflections-in-crystal
+  name: Reflections in Crystal
+  year: 2020
+  shorthand: SHB3
+- slug: 5.40_futures-rewritten
+  name: Futures Rewritten
+  year: 2020
+  shorthand: SHB4
+- slug: 5.50_death-unto-dawn
+  name: Death unto Dawn
+  year: 2021
+  shorthand: SHB5
+- slug: 6.00_endwalker
+  name: Endwalker
+  year: 2021
+  shorthand: EW
+- slug: 6.10_newfound-adventure
+  name: Newfound Adventure
+  year: 2022
+  shorthand: EW1
+- slug: 6.20_buried-memory
+  name: Buried Memory
+  year: 2022
+  shorthand: EW2
+- slug: 6.30_gods-revel-lands-tremble
+  name: Gods Revel, Lands Tremble
+  year: 2023
+  shorthand: EW3
+- slug: 6.40_the-dark-throne
+  name: The Dark Throne
+  year: 2023
+  shorthand: EW4
+- slug: 6.50_growing-light
+  name: Growing Light
+  year: 2023
+  shorthand: EW5
+- slug: 7.00_dawntrail
+  name: Dawntrail
+  year: 2024
+  shorthand: DT
+- slug: 7.10_crossroads
+  name: Crossroads
+  year: 2024
+  shorthand: DT1
+- slug: 7.20_seekers-of-eternity
+  name: Seekers of Eternity
   year: 2025
-  shorthand: FATE
-- slug: 27_renegades
-  name: Renegades
+  shorthand: DT2
+- slug: 7.30_the-promise-of-tomorrow
+  name: The Promise of Tomorrow
   year: 2025
-  shorthand: RNGD
+  shorthand: DT3
+- slug: 7.40_into-the-mist
+  name: Into the Mist
+  year: 2025
+  shorthand: DT4
+- slug: 7.50_trail-to-the-heavens
+  name: Trail to the Heavens
+  year: 2026
+  shorthand: DT5
+- slug: 8.00_evercold
+  name: Evercold
+  year: 2027
+  shorthand: EC
