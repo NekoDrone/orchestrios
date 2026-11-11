@@ -12,7 +12,9 @@ export const slugFromPath = (path: string): string => {
 const SOURCE_TYPE_HUMANISE: Record<string, string> = {
     youtube: "YouTube",
     spotify: "Spotify",
-    archive: "YouTube (DMA)",
+    soundcloud: "SoundCloud",
+    archive: "Internet Archive",
+    "square-enix-store": "Square Enix Store",
 };
 
 export const humaniseSourceType = (sourceType: string) =>

@@ -18,21 +18,21 @@ import type { NormalizedText, Token } from "#/lib/search/normalize";
  * document's score is the sum, per term, of its best (match quality × field weight).
  * Two bonuses go on top. A phrase bonus, so a title written in full outranks a track
  * that merely mentions those words; and a coverage bonus for how much of a field the
- * query accounts for, so "hope" will prefer "The Hope" over "Hope for the Future".
+ * query accounts for, so "endwalker" will prefer "Endwalker" over "Endwalker - Footfalls".
  *
  * Match quality, best first:
  * - exact:     the term is a whole word in the field
  * - prefix:    a word starts with the term (so results appear while typing)
  * - substring: the term appears mid-word ("light" in "Starlight")
- * - fuzzy:     a word is within one or two edits of the term ("guardain")
+ * - fuzzy:     a word is within one or two edits of the term ("eorzae")
  *
  * Fuzzy matching is a fallback: it only applies to a term that matches nothing,
  * anywhere, any other way. A correctly spelled "hope" should not also turn up "home".
  *
  * Substring and fuzzy matching only apply to name-like fields (weight ≥
  * {@link LOOSE_MATCH_MIN_WEIGHT}). Applying them to long descriptions mostly produces
- * noise: a typo of "guardian" would otherwise surface every track whose prose mentions
- * guardians.
+ * noise: a typo of "primal" would otherwise surface every track whose prose mentions
+ * primals.
  */
 
 export type SearchField = {

@@ -3,12 +3,17 @@ import { z } from "zod";
 export const Activity = z.object({
     name: z.string(),
     type: z.enum([
-        "strike",
-        "raid",
+        "zone", // field areas, cities, housing
         "dungeon",
-        "mission",
-        "destination",
-        "pvp-map",
+        "trial",
+        "raid", // 8-man; normal and savage share music
+        "alliance-raid",
+        "ultimate",
+        "deep-dungeon",
+        "field-operation", // Eureka, Bozja, Occult Crescent
+        "solo-duty", // instanced MSQ/quest battles
+        "pvp",
+        "gold-saucer",
         "menu",
         "cinematic",
         "other",

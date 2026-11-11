@@ -107,7 +107,7 @@ export const activitiesParsed = Object.entries(activityFiles)
         const activityDirectoryType = segments[segments.length - 2];
         if (activityParse.data.type !== activityDirectoryType) {
             throw new Error(
-                `\`${k}\` was not successfully parsed. Please check that the you have placed the right activity type into the right directory. E.g. \`raid\`s should go into \`/data/activities/raid/last-wish.yaml\`. `,
+                `\`${k}\` was not successfully parsed. Please check that the you have placed the right activity type into the right directory. E.g. \`dungeon\`s should go into \`/data/activities/dungeon/sastasha.yaml\`. `,
             );
         }
 

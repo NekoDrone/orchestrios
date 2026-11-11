@@ -133,7 +133,7 @@ const sourceFromUrl = (url) => {
     const host = URL.canParse(url) ? new URL(url).hostname.replace(/^www\./, "") : "";
     if (/youtube\.com$|youtu\.be$/.test(host)) return "youtube";
     if (/spotify\.com$/.test(host)) return "spotify";
-    if (/bungiestore\.com$/.test(host)) return "bungie-store";
+    if (/square-enix(-games)?\.com$/.test(host)) return "square-enix-store";
     if (/soundcloud\.com$/.test(host)) return "soundcloud";
     if (/archive\.org$/.test(host)) return "archive";
     return host.split(".")[0] || "other";
@@ -150,7 +150,7 @@ const main = async () => {
     console.log("\nrelease:");
     const release = await askList("release", releases(), { optional: false });
 
-    const composers = (await askRequired("composers, comma separated", "Michael Salvatori"))
+    const composers = (await askRequired("composers, comma separated", "Masayoshi Soken"))
         .split(",")
         .map((c) => c.trim())
         .filter(Boolean);

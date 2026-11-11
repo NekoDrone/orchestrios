@@ -31,12 +31,17 @@ export const isSearchKind = (value: unknown): value is SearchKind =>
     SEARCH_KINDS.includes(value as SearchKind);
 
 export const ACTIVITY_TYPE_LABEL: Record<Activity["type"], string> = {
-    strike: "Strike",
-    raid: "Raid",
+    zone: "Zone",
     dungeon: "Dungeon",
-    mission: "Mission",
-    destination: "Destination",
-    "pvp-map": "PvP Map",
+    trial: "Trial",
+    raid: "Raid",
+    "alliance-raid": "Alliance Raid",
+    ultimate: "Ultimate",
+    "deep-dungeon": "Deep Dungeon",
+    "field-operation": "Field Operation",
+    "solo-duty": "Solo Duty",
+    pvp: "PvP",
+    "gold-saucer": "Gold Saucer",
     menu: "Menu",
     cinematic: "Cinematic",
     other: "Other",

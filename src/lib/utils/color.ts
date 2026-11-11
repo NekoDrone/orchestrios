@@ -1,14 +1,8 @@
 /** `--color-haze` at 13% — the resting tint of the top atmosphere. */
 export const DEFAULT_ATMOSPHERE_COLOR = "rgba(97, 126, 180, 0.13)";
 
-export const RELEASE_ATMORPHSERE_COLOR: Record<string, string> = {
-    "0_music-of-the-spheres": "#4d140145",
-    "1_d1-vanilla": "#617eb421",
-    "2_the-dark-below": "#9bffbb27",
-    "3_house-of-wolves": "#09b0ff29",
-    "4_the-taken-king": "#b024582c",
-    "5_rise-of-iron": "#dcc45d29",
-} as const;
+/** Per-release tint, keyed on release slug. Unlisted releases fall back to the default. */
+export const RELEASE_ATMORPHSERE_COLOR: Record<string, string> = {} as const;
 
 export const isRgbColor = (value: string) => /^rgba?\(/i.test(value.trim());
 
