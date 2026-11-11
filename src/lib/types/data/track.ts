@@ -35,6 +35,9 @@ export type TrackMotif = z.infer<typeof TrackMotif>;
 export const Track = z.object({
     title: z.string(),
     composers: z.array(z.string()).min(1),
+    arrangers: z.array(z.string()).default([]),
+    lyricists: z.array(z.string()).default([]),
+    performers: z.array(z.string()).default([]),
     description: z.string().optional(),
     order: z.number().min(1),
     duration: z.templateLiteral([z.string(), ":", z.string()]),

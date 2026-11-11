@@ -36,7 +36,13 @@ export const block = (pairs, indent = "") =>
         .filter(([, value]) => value !== undefined && value !== "")
         .map(([key, value]) => `${indent}${key}: ${value}`);
 
-const banner = (text) => (text ? [`# ${text}`] : []);
+/** A comment header: one string, or an array of lines. */
+const banner = (text) =>
+    [text ?? []].flat().map((line) => (line ? `# ${line}` : "#"));
+
+/** `key: [a, b]`, omitted entirely when the list is empty. */
+const people = (key, names) =>
+    names?.length ? [`${key}: ${flowSeq(names)}`] : [];
 
 const links = (lines, sources) => {
     if (!sources?.length) return;
@@ -56,10 +62,14 @@ export const trackToYaml = (track, options = {}) => {
         ...banner(options.banner),
         `title: ${scalar(track.title)}`,
         `composers: ${flowSeq(track.composers)}`,
+        ...people("arrangers", track.arrangers),
+        ...people("lyricists", track.lyricists),
+        ...people("performers", track.performers),
         ...block([
             ["description", track.description && scalar(track.description)],
+            ["order", track.order],
+            ["duration", track.duration && scalar(track.duration)],
         ]),
-        ...block([["order", track.order]]),
     ];
 
     links(lines, track.links);

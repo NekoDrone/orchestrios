@@ -7,7 +7,7 @@
     },
     "scripts": {
         "dev": "vite dev --port 3000",
-        "data:track:new": "node scripts/new-track.mjs",
+        "data:tracks:import": "node scripts/import-tracks.mjs",
         "generate-routes": "tsr generate",
         "build": "vite build",
         "preview": "vite preview",
