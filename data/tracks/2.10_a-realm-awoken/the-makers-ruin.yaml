@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 112 (2.1 - 109).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Trial
+#   usage: The Ultima Weapon
+#   notes: Phase 1, used throughout the game as the WoL's motif
+#   motifs originating here: The Maker's Ruin (0:37)
+title: The Maker's Ruin
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 109
+duration: "2:51"

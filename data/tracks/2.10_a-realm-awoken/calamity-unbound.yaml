@@ -1,0 +1,14 @@
+# Imported from data/arr_tracks.csv line 122 (2.1 - 119).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Raid
+#   usage: The Binding Coil of Bahamut
+#   notes: Boss
+#   motifs used: Answers (1:59) (2:23)
+#   orchestral: Vol. 1
+#   concert: Vol. 1
+title: Calamity Unbound
+composers: [Masayoshi Soken]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 119
+duration: "8:08"

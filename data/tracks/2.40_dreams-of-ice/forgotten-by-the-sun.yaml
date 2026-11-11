@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 166 (2.4 - 39).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Sunken Temple of Qarn (Hard)
+#   motifs used: Echoes of Ages Past (0:00)
+title: Forgotten by the Sun
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 39
+duration: "6:53"

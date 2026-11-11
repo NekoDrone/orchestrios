@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 178 (2.5 - 50).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: Amdapor Keep (Hard)
+#   notes: Slower version
+#   motifs used: Cracks in the Wall (0:00)
+title: Aftermath
+composers: [Nobuo Uematsu]
+arrangers: [Masayoshi Soken]
+order: 50
+duration: "6:23"

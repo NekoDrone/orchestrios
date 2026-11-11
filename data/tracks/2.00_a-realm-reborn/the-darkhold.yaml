@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 76 (2.0 - 74).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: Dzemael Darkhold
+#   motifs used: A Thousand Screams (0:15)
+title: The Darkhold
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 74
+duration: "1:12"

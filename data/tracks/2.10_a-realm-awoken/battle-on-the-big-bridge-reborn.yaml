@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 123 (2.1 - 120).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Trial
+#   usage: Battle on the Big Bridge
+#   notes: Gilgamesh
+#   motifs used: Clash on the Big Bridge - Final Fantasy V
+#   the primals live: Live in Japan - Beyond the Shadow
+title: Battle on the Big Bridge Reborn
+composers: [Nobuo Uematsu]
+order: 120
+duration: "4:24"

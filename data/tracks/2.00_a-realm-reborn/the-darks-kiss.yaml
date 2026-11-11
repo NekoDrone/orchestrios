@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 99 (2.0 - 97).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: Hard battle
+#   motifs used: A Thousand Screams (0:16)
+title: The Dark's Kiss
+composers: [Nobuo Uematsu]
+arrangers: [Naoshi Mizuta]
+order: 97
+duration: "2:02"

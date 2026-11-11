@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 160 (2.3 - 34).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Urgent
+#   notes: Used throughout all expansions
+#   motifs used: Return of the Hero (0:28)
+title: Loss of Time
+composers: [Masayoshi Soken]
+arrangers: [Yoshitaka Suzuki]
+order: 34
+duration: "1:40"

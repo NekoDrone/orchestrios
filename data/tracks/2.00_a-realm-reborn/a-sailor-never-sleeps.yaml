@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 25 (2.0 - 23).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Area
+#   usage: Limsa Lominsa (night)
+#   motifs originating here: Limsa Lominsa (0:00)
+#   motifs used: La Noscea (3:07)
+title: A Sailor Never Sleeps
+composers: [Masayoshi Soken]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 23
+duration: "7:45"

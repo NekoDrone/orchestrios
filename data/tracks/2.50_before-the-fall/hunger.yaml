@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 183 (2.5 - 55).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Alliance Raid
+#   usage: The Crystal Tower - The World of Darkness
+#   notes: The Cloud of Darkness cutscene
+#   motifs used: Blind to the Dark (0:00), Dark Cloud Appears - Final Fantasy III
+title: Hunger
+composers: [Masayoshi Soken]
+arrangers: [Yoshitaka Suzuki]
+order: 55
+duration: "0:38"

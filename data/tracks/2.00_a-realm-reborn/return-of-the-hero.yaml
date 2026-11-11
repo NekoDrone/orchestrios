@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 17 (2.0 - 15).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Epic
+#   motifs originating here: Return of the Hero (0:37)
+#   motifs used: A Realm Reborn (0:47)
+title: Return of the Hero
+composers: [Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 15
+duration: "2:16"

@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 50 (2.0 - 48).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Battle
+#   usage: Instances/FATEs/Rank B Elite
+#   motifs used: Battle Theme - Final Fantasy II
+title: Battle Theme 1.x
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 48
+duration: "3:30"

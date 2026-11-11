@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 184 (2.5 - 56).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Alliance Raid
+#   usage: The Crystal Tower - The World of Darkness
+#   notes: The Cloud of Darkness
+#   motifs used: Dark Cloud Battle - Final Fantasy III (0:00), Eternal Wind (1:11)
+title: The Reach of Darkness
+composers: [Nobuo Uematsu]
+arrangers: [Masayoshi Soken]
+order: 56
+duration: "4:28"

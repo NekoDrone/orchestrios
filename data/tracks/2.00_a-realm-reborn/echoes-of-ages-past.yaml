@@ -1,0 +1,10 @@
+# Imported from data/arr_tracks.csv line 62 (2.0 - 60).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Sunken Temple of Qarn
+title: Echoes of Ages Past
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 60
+duration: "0:55"

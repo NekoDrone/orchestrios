@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 179 (2.5 - 51).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Wanderer's Palace (Hard)
+#   notes: Faster version
+#   motifs used: A Tonberry's Tears (0:00)
+title: Tricksome
+composers: [Masayoshi Soken]
+arrangers: [Ken Ito]
+order: 51
+duration: "6:02"

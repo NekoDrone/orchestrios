@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 70 (2.0 - 68).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Quests "A Royal Reception", "A Mizzenmast Repast", "Renewing the Convenant"
+#   motifs used: A Realm Reborn (0:00), Return of the Hero (1:52)
+title: Forever Lost
+composers: [Masayoshi Soken]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 68
+duration: "2:58"

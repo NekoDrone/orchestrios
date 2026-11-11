@@ -1,0 +1,15 @@
+# Imported from data/arr_tracks.csv line 6 (2.0 - 04).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Area
+#   usage: Ul'dah (day)
+#   motifs originating here: Ul'dah (0:00)
+#   motifs used: Return of the Hero (2:52)
+#   orchestral: Vol. 1, 2, 3
+#   concert: Vol. 1, 2, 3
+#   remix: From Astral to Umbral (Piano)
+title: A New Hope
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki]
+order: 4
+duration: "11:24"

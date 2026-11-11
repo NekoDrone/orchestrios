@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 14 (2.0 - 12).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Comedic
+#   motifs used: Return of the Hero (1:16)
+title: Bliss
+composers: [Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 12
+duration: "1:56"

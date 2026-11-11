@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 3 (2.0 - 01).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Menu
+#   usage: Title screen
+#   motifs originating here: Prelude (0:00)
+title: Prelude - Rebirth
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki]
+order: 1
+duration: "1:16"

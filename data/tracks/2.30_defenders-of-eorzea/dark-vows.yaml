@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 147 (2.3 - 21).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: Tam-Tara Deepcroft (Hard)
+#   motifs used: Slumber Disturbed (0:00)
+title: Dark Vows
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 21
+duration: "4:36"

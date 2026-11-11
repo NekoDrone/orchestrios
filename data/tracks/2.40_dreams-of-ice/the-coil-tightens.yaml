@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 173 (2.4 - 46).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Raid
+#   usage: The Final Coil of Bahamut
+#   notes: Cutscene
+title: The Coil Tightens
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 46
+duration: "1:23"

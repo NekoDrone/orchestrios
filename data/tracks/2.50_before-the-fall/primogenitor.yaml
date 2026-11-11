@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 189 (2.5 - 61).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Midgardsormr/Keeper of the Lake final boss
+#   notes: On HW OST
+title: Primogenitor
+composers: [Masayoshi Soken]
+arrangers: [Ken Ito]
+order: 61
+duration: "7:33"

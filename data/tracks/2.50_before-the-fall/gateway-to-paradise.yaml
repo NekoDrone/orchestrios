@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 176 (2.5 - 48).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Special
+#   usage: GATE
+#   motifs used: Chocobo (0:00)
+title: Gateway to Paradise
+composers: [Nobuo Uematsu]
+arrangers: [Masayoshi Soken]
+order: 48
+duration: "3:59"

@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 130 (2.2 - 05).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: Diabolos/The Lost City of Amdapor
+#   notes: Voidsent Theme
+#   motifs originating here: Voidsent (0:00)
+title: Wrath of the Eikons
+composers: [Nobuo Uematsu]
+arrangers: [Tsutomu Narita]
+order: 5
+duration: "2:35"

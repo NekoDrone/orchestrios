@@ -1,0 +1,15 @@
+# Imported from data/arr_tracks.csv line 185 (2.5 - 57).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Alliance Raid
+#   usage: The Crystal Tower
+#   notes: Completion
+#   motifs used: Eternal Wind - Final Fantasy III
+#   orchestral: Vol. 2 - Crystal Tower Medley
+#   concert: Vol. 2 - Crystal Tower Medley
+#   the primals live: Live in Japan - Beyond the Shadow
+title: Eternal Wind
+composers: [Masayoshi Soken]
+arrangers: [Yoshitaka Suzuki]
+order: 57
+duration: "2:39"

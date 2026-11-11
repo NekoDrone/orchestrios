@@ -1,0 +1,15 @@
+# Imported from data/arr_tracks.csv line 4 (2.0 - 02).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Battle
+#   usage: Special/FATE/S-rank Elite
+#   notes: Main theme
+#   motifs originating here: Torn from the Heavens (0:33)
+#   motifs used: Prelude (0:00)
+#   orchestral: Vol. 4
+#   concert: Vol. 1, 3
+title: Torn from the Heavens
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki]
+order: 2
+duration: "5:11"

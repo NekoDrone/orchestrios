@@ -1,0 +1,13 @@
+# Imported from data/arr_tracks.csv line 19 (2.0 - 17).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Area
+#   usage: Limsa Lominsa (day)
+#   motifs originating here: Limsa Lominsa (0:00)
+#   motifs used: La Noscea
+#   remix: From Astral to Umbral (Piano), Pulse Vol. 1
+title: I Am the Sea
+composers: [Masayoshi Soken]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 17
+duration: "13:58"

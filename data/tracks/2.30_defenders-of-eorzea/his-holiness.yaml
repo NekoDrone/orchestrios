@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 161 (2.3 - 35).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: King Thordan VII
+#   motifs used: The Dragon's Dirge
+title: His Holiness
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 35
+duration: "1:08"

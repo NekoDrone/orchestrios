@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 98 (2.0 - 96).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: Hard
+#   motifs used: A Thousand Screams (0:18)
+title: The Dark's Embrace
+composers: [Nobuo Uematsu]
+arrangers: [Tsutomu Narita]
+order: 96
+duration: "2:00"

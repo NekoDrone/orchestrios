@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 51 (2.0 - 49).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Comedic
+#   motifs used: Return of the Hero (1:15)
+title: Conundrum
+composers: [Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 49
+duration: "2:07"

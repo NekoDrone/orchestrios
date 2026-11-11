@@ -1,0 +1,16 @@
+# Imported from data/arr_tracks.csv line 46 (2.0 - 44).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Trial
+#   usage: The Bowl of Embers
+#   notes: Used in any boss battle with Ifrit
+#   motifs originating here: Ifrit
+#   motifs used: Voidsent (0:00)
+#   remix: From Astral to Umbral (Band)
+#   the primals: The Primals
+#   the primals live: Zepp Tour 2018 -Trial By Shadow-
+title: Primal Judgment
+composers: [Nobuo Uematsu]
+arrangers: [Tsutomu Narita]
+order: 44
+duration: "3:05"

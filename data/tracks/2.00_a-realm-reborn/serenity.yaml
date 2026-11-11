@@ -1,0 +1,14 @@
+# Imported from data/arr_tracks.csv line 29 (2.0 - 27).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Area
+#   usage: Black Shroud
+#   motifs used: Return of the Hero (4:22)
+#   orchestral: Vol. 1
+#   concert: Vol. 2, 3
+#   remix: From Astral to Umbral (Piano)
+title: Serenity
+composers: [Masayoshi Soken]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 27
+duration: "5:52"

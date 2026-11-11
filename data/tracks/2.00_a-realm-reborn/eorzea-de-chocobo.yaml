@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 24 (2.0 - 22).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Special
+#   usage: Company Chocobo
+#   motifs used: Chocobo Theme - Final Fantasy II (0:00)
+title: Eorzea de Chocobo
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 22
+duration: "2:33"

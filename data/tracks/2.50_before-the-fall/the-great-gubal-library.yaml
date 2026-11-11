@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 190 (2.5 - 62).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Great Gubal Library
+#   notes: Renamed to "Ink Long Dry" in Heavensward OST
+title: The Great Gubal Library
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 62
+duration: "3:59"

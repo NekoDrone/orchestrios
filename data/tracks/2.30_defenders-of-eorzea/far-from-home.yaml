@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 146 (2.3 - 20).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Tribe
+#   usage: Ixal, Ehcatl, The North Shroud
+#   notes: Not to be confused with "Far From Home" from STB
+#   motifs used: Flightless Wings (0:09)
+title: Far from Home
+composers: [Nobuo Uematsu]
+arrangers: [Masayoshi Soken]
+order: 20
+duration: "1:41"

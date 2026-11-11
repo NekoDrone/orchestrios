@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 23 (2.0 - 21).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Area
+#   usage: Costa del Sol (Cascadier)
+#   notes: Fast-paced remix with different instrumentation
+#   motifs originating here: Costa del Sol (0:00)
+title: Ruby Moonrise
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 21
+duration: "2:19"

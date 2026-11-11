@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 140 (2.2 - 15).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Raid
+#   usage: The Second Coil of Bahamut
+#   notes: Nael van Darnus
+title: Meteor
+composers: [Ryo Yamazaki]
+arrangers: [Ryo Yamazaki]
+order: 15
+duration: "2:15"

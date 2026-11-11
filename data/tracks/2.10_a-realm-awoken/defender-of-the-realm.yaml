@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 104 (2.1 - 101).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Late Main Scenario
+#   motifs used: A Realm Reborn (0:09), Return of the Hero (0:17)
+title: Defender of the Realm
+composers: [Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 101
+duration: "2:20"

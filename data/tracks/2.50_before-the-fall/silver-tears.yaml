@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 188 (2.5 - 60).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Keeper of the Lake
+#   motifs used: Revenant's Toll (0:00)
+title: Silver Tears
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 60
+duration: "4:57"

@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 80 (2.0 - 78).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Tribe
+#   usage: Ixal, Natalan, Providence Point, Coerthas Central Highlands
+#   motifs originating here: Flightless Wings (0:06)
+title: Flightless Wings
+composers: [Nobuo Uematsu]
+arrangers: [Tsutomu Narita]
+order: 78
+duration: "2:35"

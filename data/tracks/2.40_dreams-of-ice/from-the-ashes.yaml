@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 172 (2.4 - 45).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Raid
+#   usage: The Final Coil of Bahamut
+#   notes: Phoenix, Turn 3
+#   motifs used: Answers (0:00)
+title: From the Ashes
+composers: [Nobuo Uematsu]
+arrangers: [Tsutomu Narita]
+order: 45
+duration: "6:25"

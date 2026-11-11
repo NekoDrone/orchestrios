@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 110 (2.1 - 107).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Praetorium
+#   motifs used: Answers (0:24), Torn from the Heavens (2:14) (6:24), The Maker's Ruin (2:41), Hard to Miss (3:09), Haukke Manor (4:44), Halatali (5:43), The Wanderer's Palace (6:11), Prelude (5:40) (6:52)
+title: Penitus
+composers: [Masayoshi Soken]
+arrangers: [Nobuko Toda, Yoshitaka Suzuki]
+order: 107
+duration: "14:18"

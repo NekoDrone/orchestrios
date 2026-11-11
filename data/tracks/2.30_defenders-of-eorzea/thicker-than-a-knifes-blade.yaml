@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 151 (2.3 - 25).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Cutscene
+#   usage: Sad
+#   notes: Also plays in The Forgotten Knight area
+title: Thicker than a Knife's Blade
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 25
+duration: "2:08"

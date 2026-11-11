@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 142 (2.2 - 17).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Raid
+#   usage: The Second Coil of Bahamut
+#   notes: Nael Deus Darnus Phase 1
+#   motifs used: Answers (1:37)
+title: Tempest
+composers: [Nobuo Uematsu]
+arrangers: [Tsutomu Narita]
+order: 17
+duration: "6:16"

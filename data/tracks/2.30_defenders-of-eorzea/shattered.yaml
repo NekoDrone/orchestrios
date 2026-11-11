@@ -1,0 +1,15 @@
+# Imported from data/arr_tracks.csv line 159 (2.3 - 33).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Alliance Raid
+#   usage: The Crystal Tower - Syrcus Tower
+#   notes: Battle
+#   motifs originating here: Syrcus Tower (0:00)
+#   motifs used: Out of the Labryrinth - Final Fantasy III
+#   orchestral: Vol. 2 - Crystal Tower Medley
+#   concert: Vol. 1 - Out of the Shattered Labyrinth, 2 - Crystal Tower Medley
+title: Shattered
+composers: [Masayoshi Soken]
+arrangers: [Yoshitaka Suzuki]
+order: 33
+duration: "5:20"

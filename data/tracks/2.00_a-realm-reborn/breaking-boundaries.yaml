@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 97 (2.0 - 95).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Battle
+#   usage: Level 50 job quest
+#   concert: Vol. 1
+title: Breaking Boundaries
+composers: [Masayoshi Soken]
+arrangers: [Tsuyoshi Sekito]
+order: 95
+duration: "1:59"

@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 111 (2.1 - 108).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Praetorium
+#   notes: Gaius van Baelsar
+#   motifs used: Rise of the White Raven (0:00), Prelude (0:00)
+title: Bite of the Black Wolf
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 108
+duration: "4:36"

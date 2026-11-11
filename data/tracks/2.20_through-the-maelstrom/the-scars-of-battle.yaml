@@ -1,0 +1,11 @@
+# Imported from data/arr_tracks.csv line 128 (2.2 - 03).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Dungeon
+#   usage: The Lost City of Amdapor
+#   notes: The Lost City of Amdapor has no battle theme
+title: The Scars of Battle
+composers: [Masayoshi Soken]
+arrangers: [Masayoshi Soken]
+order: 3
+duration: "4:48"

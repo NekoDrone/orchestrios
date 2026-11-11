@@ -1,0 +1,12 @@
+# Imported from data/arr_tracks.csv line 44 (2.0 - 42).
+# Sheet notes below are unverified (motifs especially) — tidy, then
+# delete this header.
+#   type: Tribe
+#   usage: Amalj'aa, Zahar'ak, South Thanalan
+#   motifs originating here: Amalj'aa (0:00)
+#   motifs used: Conflagaration
+title: Pitfire
+composers: [Nobuo Uematsu]
+arrangers: [Masayoshi Soken]
+order: 42
+duration: "1:56"
