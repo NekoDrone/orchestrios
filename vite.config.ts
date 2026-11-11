@@ -49,7 +49,7 @@ const config = defineConfig({
                 autoStaticPathsDiscovery: true,
             },
             pages: trackPages,
-            sitemap: { host: "https://parachoral.fm" },
+            sitemap: { host: "https://orchestrios.elpis.garden" },
         }),
         viteReact(),
         babel({ presets: [reactCompilerPreset()] }),

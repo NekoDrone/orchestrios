@@ -1,6 +1,6 @@
 {
     "$schema": "node_modules/wrangler/config-schema.json",
-    "name": "parachoral",
+    "name": "orchestrios",
     "compatibility_date": "2026-07-25",
     // `main`, `assets.binding`, `assets.directory`, and `nodejs_compat` are injected
     // by the Nitro cloudflare-module preset into .output/server/wrangler.json at build
@@ -8,8 +8,7 @@
     // Canonical URLs have no trailing slash, matching the generated sitemap.
     "assets": { "html_handling": "drop-trailing-slash" },
     "routes": [
-        { "pattern": "parachoral.fm", "custom_domain": true },
-        { "pattern": "www.parachoral.fm", "custom_domain": true }
+        { "pattern": "orchestrios.elpis.garden", "custom_domain": true }
     ],
     "observability": { "enabled": true }
 }
